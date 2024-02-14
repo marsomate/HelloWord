@@ -1,3 +1,4 @@
 # HelloWord
 Grafikus interfész tárgy gyakorlás
-dvsvgdds
+dvsvgddss
+ga sg., gsl 
